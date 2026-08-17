@@ -1,0 +1,1 @@
+# NewsSphere PIRA-style\nA creative dashboard-style news PWA inspired by the visual feel of a smart assistant dashboard. Includes category navigation, live feed, recitation, install button, search and newspaper filters. Deploy to Vercel with GitHub. Add more public RSS/Atom feeds in api/news.js as permitted by publishers.\n
